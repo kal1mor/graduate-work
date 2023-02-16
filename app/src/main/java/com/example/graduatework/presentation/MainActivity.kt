@@ -1,7 +1,8 @@
-package com.example.graduatework
+package com.example.graduatework.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.graduatework.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
