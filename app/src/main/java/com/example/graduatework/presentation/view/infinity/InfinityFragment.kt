@@ -6,7 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.example.graduatework.R
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class InfinityFragment : Fragment() {
 
     override fun onCreateView(
